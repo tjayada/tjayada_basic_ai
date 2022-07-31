@@ -4,7 +4,7 @@ Also I'm waiting for the lovely people of <a href="https://maiachess.com">Maia C
 
 Of course special thanks to <a href="https://github.com/ShailChoksi/lichess-bot">ShailChoksi</a> and their lichess-bot.
 
-##Quick Demonstration	
+## Quick Demonstration	
 
 <img src="example_games/example1.gif" />	
 (As you can see, it does quite a lot of mistakes)
